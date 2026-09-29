@@ -1,0 +1,6 @@
+{
+  "name": "Lib Smart - Library Management System",
+  "description": "A modern, intelligent SaaS-grade Library Management System for Admins, Librarians, and Students with physical barcode scanning, automated fine calculation, reservations, and real-time analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
